@@ -21,15 +21,6 @@ Pycharm <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pych
 IntellIJ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="48" height="48"/> 
 VS Code <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48"/> </div>
 
-### Proximas Conquistas (Roadmap)
-<div> 
-Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="48" height="48"/>
-Terraform <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="48" height="48"/>
-Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48"/> 
-Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" width="48" height="48"/> 
-Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48"/> 
-Github Actions <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"width="48" height="48"/> </div>
-
 ## Experiência
 Ainda estou procurando a primeira oportunidade. Estou a procura de estagio e afins.
 
@@ -37,6 +28,7 @@ Ainda estou procurando a primeira oportunidade. Estou a procura de estagio e afi
 - Estudante de Engenharia da Computação, Uniamerica (2022-2025) 
 ### Cursos relevantes:
 - Devops, Ada (06/24-12/24)
+- Cybersecurity, VNW (06/25-12/25)
 
 ## Contato
 <div> <a href = "mailto:danielguidini2002@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/danielguidini/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div> <div> <a href="https://github.com/danielguidini"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielguidini&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielguidini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
