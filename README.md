@@ -2,9 +2,9 @@
 
 Engenheiro de Computação com foco em **DevOps**, **Cloud** e **Cybersecurity**. Atualmente, busco minha primeira oportunidade no mercado de tecnologia para aplicar soluções escaláveis e seguras.
 
-- [cite_start]🎓 Graduando em **Engenharia da Computação** pela UniAmérica (CR 9.1)[cite: 75, 78, 115].
-- [cite_start]🚀 Especialista em **DevOps** formado pelo Santander Coders (318h de conteúdo técnico)[cite: 42, 49].
-- [cite_start]🛡️ Especialista em **Cybersecurity** (150h) com foco em Ethical Hacking e Defesa[cite: 19].
+🎓 Graduando em **Engenharia da Computação** pela UniAmérica.
+🚀 Especialista em **DevOps** formado pelo Santander Coders (318h de conteúdo técnico).
+🛡️ Especialista em **Cybersecurity** (150h) com foco em Ethical Hacking e Defesa.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -31,12 +31,12 @@ Engenheiro de Computação com foco em **DevOps**, **Cloud** e **Cybersecurity**
 
 ## 📚 Educação & Formações Relevantes
 
-- **Bacharelado em Engenharia da Computação** | [cite_start]UniAmérica (2022 - 2025) [cite: 75, 78]
-  - [cite_start]Foco em Infraestrutura de Redes, Cloud Computing e Sistemas Inteligentes[cite: 87].
-- **Santander Coders | DevOps** | [cite_start]Ada Tech (318h) [cite: 42, 49]
-  - [cite_start]Provisionamento como Código, AWS, Conteinerização e Redes.
-- **Formação CyberSec** | [cite_start]Vai Na Web / Instituto Precisa Ser (150h) [cite: 19]
-  - [cite_start]Ethical Hacking, Resposta a Incidentes (NIST), SIEM (Wazuh) e Pentest em ambiente simulado[cite: 21, 23].
+- **Bacharelado em Engenharia da Computação** | UniAmérica (2022 - 2025)
+  Foco em Infraestrutura de Redes, Cloud Computing e Sistemas Inteligentes
+- **Santander Coders | DevOps** | Ada Tech (318h)
+  Provisionamento como Código, AWS, Conteinerização e Redes
+- **Formação CyberSec** | Vai Na Web / Instituto Kensei (150h) 
+  Ethical Hacking, Resposta a Incidentes (NIST), SIEM (Wazuh) e Pentest em ambiente simulado
 
 ## 📧 Contato
 
