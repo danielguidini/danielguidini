@@ -2,9 +2,9 @@
 
 Engenheiro de Computação com foco em **DevOps**, **Cloud** e **Cybersecurity**. Atualmente, busco minha primeira oportunidade no mercado de tecnologia para aplicar soluções escaláveis e seguras.
 
-🎓 Graduando em **Engenharia da Computação** pela UniAmérica.
-🚀 Especialista em **DevOps** formado pelo Santander Coders (318h de conteúdo técnico).
-🛡️ Especialista em **Cybersecurity** (150h) com foco em Ethical Hacking e Defesa.
+🎓 Graduando em **Engenharia da Computação** pela UniAmérica.<br>
+🚀 Especialista em **DevOps** formado pelo Santander Coders (318h de conteúdo técnico).<br>
+🛡️ Especialista em **Cybersecurity** (150h) com foco em Ethical Hacking e Defesa.<br>
 
 ## 🛠️ Habilidades Técnicas
 
